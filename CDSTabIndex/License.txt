@@ -1,0 +1,2 @@
+﻿This project has a free license and can be distributable. This add-in appear under View menu.
+Developed by Carlos dos Santos.
