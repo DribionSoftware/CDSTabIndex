@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="CDSTabIndex.c9f42360-4a53-42e4-8e9b-64dc1002e64b" Version="1.5" Language="en-US" Publisher="Carlos dos Santos" />
+        <Identity Id="CDSTabIndexSIX..a9e1a3f2-0e32-491b-8c71-dbe958934da0" Version="1.5" Language="en-US" Publisher="Carlos dos Santos" />
         <DisplayName>CDSTabIndex</DisplayName>
         <Description xml:space="preserve">Create a new experience to order your controls in Windows Form application.</Description>
         <MoreInfo>http://www.carloscds.net</MoreInfo>
         <License>License.txt</License>
-        <Icon>CDSTabIndex.ico</Icon>
+        <Icon>Resources\CDSTabIndexPackage.ico</Icon>
         <PreviewImage>TabIndexImage.png</PreviewImage>
         <Tags>tab order index</Tags>
     </Metadata>
